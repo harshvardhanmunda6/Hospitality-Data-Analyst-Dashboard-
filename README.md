@@ -5,7 +5,7 @@
 
 # 🏨 Hospitality Dashboard – Data Analysis Summary
 
-# 📊 Key Performance Indix - Overall KPI summary 
+# 📊 Key Performance Index - Overall KPI summary 
 
 
 Total Revenue: ₹1709M
