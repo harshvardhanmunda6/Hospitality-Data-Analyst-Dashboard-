@@ -1,6 +1,7 @@
 # Hospitality-Data-Analyst-Dashboard-
 
-![file_0000000034b0623083ede92e6070f18d](https://github.com/user-attachments/assets/6ec041f9-479b-4a71-a1a4-4bd21c372ccc)
+![file_000000001f6062309c931141039c97d5](https://github.com/user-attachments/assets/0d1d4181-df80-4e80-9d31-c30acdd1429d)
+
 
 # 🏨 Hospitality Dashboard – Data Analysis Summary
 
