@@ -1,8 +1,11 @@
 # Hospitality-Data-Analyst-Dashboard-
 
+![file_0000000034b0623083ede92e6070f18d](https://github.com/user-attachments/assets/6ec041f9-479b-4a71-a1a4-4bd21c372ccc)
+
 # 🏨 Hospitality Dashboard – Data Analysis Summary
 
 # 📊 Key Performance Highlights
+
 
 Total Revenue: ₹1709M
 Occupancy Rate: 58%
