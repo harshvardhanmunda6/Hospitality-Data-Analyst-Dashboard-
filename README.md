@@ -9,9 +9,13 @@
 
 
 Total Revenue: ₹1709M
+
 Occupancy Rate: 58%
+
 Booking Volume: 135K bookings | 233K utilized capacity
+
 Cancellation Rate: 25% – high enough to warrant strategic attention
+
 Check-Out Rate: 70.15% – indicating healthy booking conversion
 
 # 📱 Platform Insights
